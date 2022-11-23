@@ -1,0 +1,15 @@
+{
+  "short_name": "NFT Mints",
+  "name": "NFT Mints in realtime",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#0D192B"
+}
